@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About the Project
+1. This is a simple web application which displays information regarding various types of beers.
+2. Brewscape also has search functionality which can be used to search for a specific beer using its name.
+3. Technologies used - ReactJS, CSS.
